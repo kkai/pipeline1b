@@ -139,7 +139,7 @@ def filter_fixations(time,x,y):
 
 import pandas
 import numpy.linalg as lin
-from matplotlib.mlab import PCA
+# from matplotlib.mlab import PCA
 import numpy as np
 import pandas
 from math import atan2, pi, degrees
